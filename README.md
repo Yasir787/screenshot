@@ -56,7 +56,7 @@ This application provides a simple graphical interface to take screenshots. Clic
 
 1. Run the script:
    ```bash
-   python screenshot_taker.py
+   python ss.py
    ```
 2. A window appears with two buttons:
    - **Take Screenshot**: Waits 5 seconds, captures the screen, saves it as a PNG, and displays it.
