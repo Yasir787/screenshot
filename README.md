@@ -72,7 +72,7 @@ screenshot/
 ├── screenshots data/            # Directory for saved screenshots
 └── README.md                    # This README file
 ```
-
+also can use previous version without gui
 ## Notes
 
 - The script assumes the directory `C:/Users/YASIR787/Downloads/python learning/New folder/screenshot/screenshot/screenshots data/` exists. Update the path in the code for portability.
